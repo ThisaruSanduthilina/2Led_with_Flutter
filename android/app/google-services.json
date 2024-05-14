@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "241216409987",
+    "firebase_url": "https://led1-39197-default-rtdb.firebaseio.com",
+    "project_id": "led1-39197",
+    "storage_bucket": "led1-39197.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241216409987:android:b08571d8441fbb271666b6",
+        "android_client_info": {
+          "package_name": "com.example.myapp7"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZ2QzHDckBr2QG0cBUBp5pmDimMwVci3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
